@@ -7,4 +7,4 @@ This respository captures my personal solutions to the Scientific Computing with
 - [Polygon Area Calculator]
 - [Probability Calculator]
 
-copyrigth [@freecodecamp](https://www.freecodecamp.org)
+copyrigth [freeCodeCamp.org](https://www.freecodecamp.org)
