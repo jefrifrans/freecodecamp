@@ -1,10 +1,10 @@
-# Scientific Computing with Python
+# freeCodeCamp 
+[freeCodeCamp](https://www.freecodecamp.org/learn/) a website tutorial, pratice, sharing and courses basis to non profit
+this my repository share about courses, soution or share certificate in freeCodeCamp
 
-This respository captures my personal solutions to the Scientific Computing with Python Certification projects in freeCodeCamp.
-- [Arithmetic Formatter](https://github.com/jefrifrans/freecodecamp/tree/master/Scientific%20computing/aritmatic_arranger)
-- [Time Calculator](https://github.com/jefrifrans/freecodecamp/tree/master/Scientific%20computing/time_calculator)
-- [Budget App]
-- [Polygon Area Calculator]
-- [Probability Calculator]
-
-copyrigth @[freeCodeCamp.org](https://www.freecodecamp.org)<br>
+- [Computing Scientific with Python](https://github.com/jefrifrans/freecodecamp/tree/master/Scientific%20computing)
+  - <a href="https://github.com/jefrifrans/freecodecamp/tree/master/Scientific%20computing/aritmatic_arranger">Arithmetic Formatter<a>
+  - <a href="https://github.com/jefrifrans/freecodecamp/tree/master/Scientific%20computing/time_calculator">Time Calculator</a>
+  - [Budget App]
+  - [Polygon Area Calculator]
+  - [Probability Calculator]
