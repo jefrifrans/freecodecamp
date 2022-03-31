@@ -9,4 +9,4 @@ This respository captures my personal solutions to the Scientific Computing with
 
 copyrigth [freeCodeCamp.org](https://www.freecodecamp.org) <br>
 
-![Sertifikat]( {https://github.com/jefrifrans/Data-science/blob/main/Coursera_google-1.png} )
+![Sertifikat]( {https://github.com/jefrifrans/Data-science/blob/974d81a050d1e47a12ff487857b1e928bfa92db1/tes1.png} )
