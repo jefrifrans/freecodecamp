@@ -7,5 +7,6 @@ This respository captures my personal solutions to the Scientific Computing with
 - [Polygon Area Calculator]
 - [Probability Calculator]
 
-copyrigth [freeCodeCamp.org](https://www.freecodecamp.org)
-![Sertifikat.PNG]( {https://github.com/jefrifrans/Data-science/blob/main/Coursera_google-1.png} )
+copyrigth [freeCodeCamp.org](https://www.freecodecamp.org) <br>
+
+![Sertifikat]( {https://github.com/jefrifrans/Data-science/blob/main/Coursera_google-1.png} )
