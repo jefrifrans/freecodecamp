@@ -5,6 +5,6 @@ this my repository share about courses, solution or share certificate in freeCod
 - [Computing Scientific with Python](https://github.com/jefrifrans/freecodecamp/tree/master/Scientific%20computing)
   - <a href="https://github.com/jefrifrans/freecodecamp/tree/master/Scientific%20computing/aritmatic_arranger">Arithmetic Formatter<a>
   - <a href="https://github.com/jefrifrans/freecodecamp/tree/master/Scientific%20computing/time_calculator">Time Calculator</a>
-  - [Budget App]
-  - [Polygon Area Calculator]
-  - [Probability Calculator]
+  - [Budget App](https://github.com/jefrifrans/freecodecamp/tree/master/Scientific%20computing/budget_app)
+  - [Polygon Area Calculator](https://github.com/jefrifrans/freecodecamp/tree/master/Scientific%20computing/plygon_area_calculator)
+  - [Probability Calculator](https://github.com/jefrifrans/freecodecamp/tree/master/Scientific%20computing/probability_calculator)
